@@ -1,6 +1,6 @@
 # Lesson 1：基础工具与开发环境
 
-![算法组学习示意图](image.png)
+![算法组学习示意图](assets/image.png)
 
 ## 1. 提问与解决问题
 
@@ -20,7 +20,7 @@
 ## 3. Ubuntu 与 C++ 环境
 
 - 完成 Ubuntu 系统配置，参考：[Win11 安装 Ubuntu 双系统](https://www.bilibili.com/video/BV1Cc41127B9/?spm_id_from=333.337.search-card.all.click&vd_source=8046907425269c14afbf6084b6bdf0a2)。
-- 完成 Ubuntu 上的 C++ 开发环境配置，参考[飞书配置文档](https://fa4g5no1b1f.feishu.cn/wiki/VkvUwzmv9iPj8gkpTJxc4cgJnNf)和[崇实战队教程](https://www.wust-rm.top/posts/teach02/)。
+- 完成 Ubuntu 上的 C++ 开发环境配置，参考[ubuntu中配置c++编程环境](ubuntu.md)
 
 ## 4. C++ 基础
 
