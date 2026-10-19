@@ -16,9 +16,11 @@
 
 **Week1(10.26-11.1)**
 
-了解并学习ROS2,观看[鱼香ros的讲解视频](https://www.bilibili.com/video/BV1GW42197Ck/?spm_id_from=333.337.search-card.all.click&vd_source=ab95e38693e69b78142ad3f3f392993b)
+- [ ] 了解导航的组成(slam,路径规划控制,决策)
 
-鱼香ros（二，三）
+- [ ] 安装并学习ROS2,观看[鱼香ros的讲解视频](https://www.bilibili.com/video/BV1GW42197Ck/?spm_id_from=333.337.search-card.all.click&vd_source=ab95e38693e69b78142ad3f3f392993b)的第一，二，三章。
+
+- [ ] 完成Task1
 
 ---
 
