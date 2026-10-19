@@ -16,7 +16,7 @@
 
 **Week1(10.26-11.1)**
 
-
+了解并学习ROS2,观看[鱼香ros的讲解视频](https://www.bilibili.com/video/BV1GW42197Ck/?spm_id_from=333.337.search-card.all.click&vd_source=ab95e38693e69b78142ad3f3f392993b)
 
 鱼香ros（二，三）
 
