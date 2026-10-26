@@ -18,9 +18,12 @@
 
 - [ ] 了解导航的组成(slam,路径规划控制,决策)
 
-- [ ] 安装并学习ROS2,观看[鱼香ros的讲解视频](https://www.bilibili.com/video/BV1GW42197Ck/?spm_id_from=333.337.search-card.all.click&vd_source=ab95e38693e69b78142ad3f3f392993b)的第一，二，三章。
+- [ ] 安装并学习ROS2,观看[鱼香ros的讲解视频](https://www.bilibili.com/video/BV1GW42197Ck/?spm_id_from=333.337.search-card.all.click&vd_source=ab95e38693e69b78142ad3f3f392993b)的第一章.
 
-- [ ] 完成Task1
+- [ ] 跑通北极熊仿真:
+      [北极熊代码](https://github.com/SMBU-PolarBear-Robotics-Team/pb2025_sentry_nav)
+      [仿真环境](https://github.com/SMBU-PolarBear-Robotics-Team/rmu_gazebo_simulator)
+
 
 ---
 
@@ -29,7 +32,7 @@
 **Week2(11.2-11.8)**
 
 矩阵的基本运算
-
+- [ ] 了解行列式，向量
 第四章，BFS,DFS
 
 ---
