@@ -31,18 +31,19 @@
 
 **Week2(11.2-11.8)**
 
-矩阵的基本运算
-- [ ] 了解行列式，向量
-第四章，BFS,DFS
+
+- [ ] 理解开会ppt内容:week2.1, week2.2 
+- [ ] week2.2配合[鱼香ros的讲解视频](https://www.bilibili.com/video/BV1GW42197Ck/?spm_id_from=333.337.search-card.all.click&vd_source=ab95e38693e69b78142ad3f3f392993b)食用，至少学完二，三章
+- [ ] 完成Task2
 
 ---
 
 
 
 **Week3(11.9-11.15)**
-
-
-
+- [ ] 了解行列式，向量
+第四章，BFS,DFS
+矩阵的基本运算
 坐标系，轴角，tf,第五章， 李群与李代数
 
 ---
